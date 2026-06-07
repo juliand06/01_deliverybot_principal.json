@@ -89,4 +89,6 @@ El proyecto está dividido en tres módulos principales orquestados por **n8n**:
 
 ---
 
-**Desarrollador:** Andrey Julián Ricaurte Duran
+**Desarrollador:** Andrey Julián Ricaurte 
+
+#profe pasa y acontese que mi computador no me permite tomar capturas de pantalla a si que las pruebas las tendre por link y eso mucho
